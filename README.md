@@ -9,9 +9,7 @@ A Gym env for propulsive rocket landing.
 
 The goal is to bring the rocket above the landing pad with a speed inferior to 5m/s.  
 
-This is inspired by and based on Thomas Godden's ["Starship Landing Trajectory Optimization" blog post.](http://thomasgodden.com/starship-trajopt.html).
-
-I made a video about the issues I ran into while solving this env: [Je fais atterrir une fusée SpaceX avec du RL !](https://www.youtube.com/watch?v=9xX14NkrbRU) It's in french and I wrote english subtitles.
+This is slightly modified version of the original [Armandpl Starsdhip Landing Gym](https://github.com/Armandpl/starship-landing-gym) with upper crash detection and time penalty.
 
 ## Installation
 
