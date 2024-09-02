@@ -1,4 +1,4 @@
-# Starship Landing Gym [![tests](https://github.com/Armandpl/starship-landing-gym/actions/workflows/tests.yml/badge.svg)](https://github.com/Armandpl/starship-landing-gym/actions/workflows/tests.yml)
+# Starship Landing Gym
 A Gym env for propulsive rocket landing. 
 
 <p align="center">
@@ -9,7 +9,7 @@ A Gym env for propulsive rocket landing.
 
 The goal is to bring the rocket above the landing pad with a speed inferior to 5m/s.  
 
-This is slightly modified version of the original [Armandpl Starsdhip Landing Gym](https://github.com/Armandpl/starship-landing-gym) with upper crash detection and time penalty.
+This is slightly modified version of the original [Armandpl's Starship Landing Gym](https://github.com/Armandpl/starship-landing-gym) with upper crash detection and time penalty.
 
 ## Installation
 
